@@ -1,2 +1,2 @@
-# portfolio
-Portfolio of completed projects through the University of Minnesota towards my degree in computer science.
+# Capstone
+One of the most difficult and fulfilling projects I have ever completed. Plus some Python turtle on the side :)
